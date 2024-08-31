@@ -1,0 +1,17 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="20" width="200" height="160" rx="8" fill="#DFE2F1"/>
+<path d="M0 28C0 23.5817 3.58172 20 8 20H192C196.418 20 200 23.5817 200 28V46.6667H0V28Z" fill="#9EA7D6"/>
+<rect x="53.3334" y="76.6667" width="93.3333" height="76.6667" rx="8" fill="#9EA7D6"/>
+<path d="M53.3334 84.6666C53.3334 80.2484 56.9151 76.6667 61.3334 76.6667H127.333C130.647 76.6667 133.333 79.3529 133.333 82.6667V147.333C133.333 150.647 130.647 153.333 127.333 153.333H61.3334C56.9151 153.333 53.3334 149.752 53.3334 145.333V84.6666Z" fill="#BEC4E4"/>
+<path d="M73.3334 67.3333C73.3334 65.1242 75.1242 63.3333 77.3334 63.3333H122.667C124.876 63.3333 126.667 65.1242 126.667 67.3333V76.6667H73.3334V67.3333Z" fill="#4555A5"/>
+<path d="M73.3334 67.3333C73.3334 65.1242 75.1242 63.3333 77.3334 63.3333H118C119.105 63.3333 120 64.2288 120 65.3333V76.6667H73.3334V67.3333Z" fill="#5D6DBB"/>
+<path d="M75 98.3333L88.3333 111.667" stroke="#4555A5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M111.667 98.3333L125 111.667" stroke="#4555A5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M88.3334 98.3333L75 111.667" stroke="#4555A5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M125 98.3333L111.667 111.667" stroke="#4555A5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M80 133.333H120" stroke="#4555A5" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="31.6666" cy="33.3333" rx="5" ry="5" fill="#DFE2F1"/>
+<ellipse cx="51.6666" cy="33.3333" rx="5" ry="5" fill="#DFE2F1"/>
+<ellipse cx="71.6666" cy="33.3333" rx="5" ry="5" fill="#DFE2F1"/>
+<path d="M105.833 33.3333H175" stroke="#DFE2F1" stroke-width="2" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,585 @@
+@media (min-width: 1600px) and (max-width: 3000px) {
+body.doscamslanding .banner:before {background-position:41% -18% !important;}
+
+}
+
+@media only screen and (min-width: 1300px) {
+body.doscamslanding .banner:before{background-position:-16px -2px;}
+
+}
+
+
+
+@media only screen and (max-width: 1300px) {
+body.doscamslanding .banner:before{background-position:-150px -70px;}
+
+
+}
+@media only screen and (min-width: 1200px) {
+.sidebarlistfix .card{max-width: 284px;}	
+.sidebarlistfix .card{max-width: 284px;}
+.banner-containt .order-2 img{max-width:618px;}
+
+}
+
+@media only screen and (max-width: 1200px) {
+.logo {width: 150px;}
+.navbar-nav .nav-link { padding: 1.4rem 0.65rem 0rem 0.65rem !important;}
+.nav-link.dropdown-toggle span:last-child{ display:none; }
+.nav-tabs .nav-item .nav-link { padding: .5rem 1.12rem;}
+.dropdown-toggle::after{display:none;}
+.nav-link.dropdown-toggle{ padding-right:0px !important}
+.searchbox {margin-left:1rem;min-width: 268px;}
+.banner-containt h1 {width: 490px;}
+.dasbrdpntlist {min-width: 204px;}
+.dasbrdpntlistmain{ justify-content: center;}
+.sidebarlistfix .card {width: 240px;}
+.sidebarlistfix .card {width: 240px;}
+.create-company-page .outlinebtn{    padding: .5rem 0.6rem;}
+.compnyvproflname{ margin-top:2rem;}
+.nearbyservices .fourbtn .outlinebtn{font-size: 0.75rem;}
+.page-preview .middlesec .sidebarlistfix .card{ width:auto;}
+.page-preview .middlesec .sidebarlistfix .card.border { width:138px; min-width: 138px;}
+.page-preview .sidebarlistfix.fixed {width: 526px;min-width: 526px;}
+.journalspagelist .colss {width: 31%;}
+.searchlist-main{max-width:220px;} 
+.events .eventslistul li {width: calc((100% - 16px)/3);margin:4px 4px 4px 4px;}
+.events.pagediscover.products .eventslistul li {width: calc((100% - 24px)/3);margin: 4px 4px 4px 4px;}
+body.doscamslanding .banner-containt .order-2 img {position: inherit;left: inherit;}
+body.doscamslanding .banner-containt h1{max-width:416px;width:416px;font-size: 2.25rem;line-height:2.8rem;}
+body.doscamslanding h2 {font-size: 2.25rem;}
+body.doscamslanding h4.subtile{font-size:1.15rem; line-height: 2rem;}
+body.doscamslanding .upcoming-featurescol {width: 321px;}
+body.doscamslanding .ourapproach .col {min-width:200px;}
+body.doscamslanding footer .order-1 img{ width:90px;}
+body.doscamslanding footer .order-2 img{ width:90px;}
+body.doscamslanding ul.footerlist li a {margin:0 0.875rem;}
+body.doscamslanding .banner:before {background-position:-230px -38px;}
+.upcomingfeaturescol {min-height:100px;}
+.upcomingfeaturescol img{width:80px; height:80px;}
+.upcomingfeaturess p{ font-size:0.875rem; padding-left:6rem;}
+.upcomingfeaturess h4{padding-left:6rem;}
+.upcomingfeaturescol{ margin-bottom:1rem;}
+}
+
+@media only screen and (max-width:1130px) {
+body.doscamslanding .banner:before {background-position: -278px -96px;}
+}
+@media only screen and (min-width: 991.8px) {
+.nav-link.dropdown-toggle{ margin-top:0.5rem;padding-right: 0.45rem !important;padding-left:0rem !important; padding-top:0rem !important;}
+.navbar-nav .nav-link .profile-sm{    border: 1px solid #BDBDBD; margin-right:0.2rem;}
+.notificationmb{ display:none;}
+
+.sidebarlistfix.fixed{ position:fixed; top:-300px;    width: 100%;}
+.footerfixed{ display:none;}
+.page-preview .sidebarlistfix.fixed { position:fixed; top:167px; width:auto;min-width:632px;}
+/*.articlesec .sidebarlistfix .scrollbarpan.srlg {max-height:548px;}*/
+
+}
+
+@media only screen and (max-width: 991.8px) {
+#nav-icon4{ z-index:9999999; position: absolute;left:0px;}
+.collapse.show {width: 100% !important;transition: 0.2s;}
+.navbar-collapse.collapse.show .navbar-nav{padding:4rem 2rem 0 2rem;overflow:scroll;background-color:#f8f9fa;border-top:solid 1px #efefef;margin-right:20%;width:80%;height:100vh;display:block !important;}
+.navbar-collapse.collapse.show .profilelist li{ border-bottom:none;}
+.navbar-collapse {height: 100%; width: 0; position: fixed;z-index: 1;top:0px; left: 0;overflow-x: hidden;}
+/*.navbar-toggler.open:before{color:#ccc;content: "CLOSE";left: 40px;position: absolute;top:8.8px;font-size: 0.75rem;}	*/
+/*#navbarCollapse.navbar-collapse.collapse.show:before{ display:none;content: "";background-color: #000;width:100%;height: 100vh;right: 0px;position: absolute;top: 0;  opacity: 0.5;z-index: -1;}*/
+.nav-item.dropdown .nav-link.dropdown-toggle{ display:none;}
+.notification {width:1.5rem; height:1.5rem;    margin-right: 0.5rem;text-align: center;background-image: url(../../assets/img/notification-h.svg); 
+background-repeat: no-repeat;background-position: center 0px;color: #828282;}
+.notification span{left: 14px;top: 2px}
+.logo {width: 201px;}
+.navbar-brand{ margin:0.4rem auto 0.4rem 3.6rem !important;}
+.navbar-light .navbar-brand{ margin-left:0 !important;}
+.navbar-toggler.open{z-index: 9999999;left: 0;position: absolute;}
+.nav-item.dropdown{position: absolute;right: 100px;top: 6px;}
+.navbar-collapse .mb-block {display: block;}
+.navbar-collapse .mb-none {display: none;}
+
+.banner-containt img{ max-width:100%;    margin-top: 4rem;}
+.banner-containt h1{font-size: 2.5rem;line-height: 3.1rem;max-width: 400px;width: 400px;}
+.banner-containt h4{font-size:1rem;    margin-bottom:1rem;}
+.dpn-mapbg h4{font-size:1rem;    margin-bottom:1rem;}
+.profsnlntwrk h1 {font-size: 2.1rem;line-height:2.8rem;}
+.dpn-mapbg h1 {font-size: 2.1rem;line-height: 2.95rem;}
+.coloumimg{    width: 80%; margin: 0 auto;text-align: center; display: table;}
+.asidesec {order:1;display:none;padding-right: 1rem;}
+.asidesec.messaging{display:block;}
+/*.articlesec.recently-visited{display:block; order:1;}*/
+.middlesec{ order:3;}
+.middlesec {padding: 0rem 0rem;}
+.articlesec{  display: none;}
+.articlesec.tab-visable{display: block;}
+.sidebarlistfix .card{width: 100%;}	
+.sidebarlistfix .card{width: 100%;}	
+table td{white-space: nowrap;}
+table th{white-space: nowrap;}
+.profilelist-md li a p.pxssmall{ display:none;}
+.asidesec .sidebarlistfix{ display:flex;}
+.asidesec.bookservc .sidebarlistfix .card:first-child { width:77%; margin-right:1rem;}
+.asidesec.bookservc .sidebarlistfix .card:last-child { width:22%; }
+.asidesec.bookservc .sidebarlistfix .card:last-child .outlinebtn{margin-top:1.5rem !important;}
+.asidesec .profilelist-md{display: flex;justify-content: space-around;padding-left: 0.5rem;padding-right: 0.5rem;padding-bottom: 1rem;}
+.asidesec .profilelist-md li{width:31.2%; border-radius:4px;}
+.asidesec .profilelist-md li a {padding: 0.75rem 0.8rem 0.76rem 0.8rem;    text-align: center;}
+.asidesec .profilelist-md li a img {margin: 0px auto 5px auto;position: inherit;left: inherit;top: inherit;display: table;}
+.asidesec .profilelist-md li:nth-child(1){background: linear-gradient(140.41deg, #E2E3FD 0.19%, #D7C6F8 100%);}
+.asidesec .profilelist-md li:nth-child(2){background: linear-gradient(140.41deg, #FFEAEA 0.19%, #FFCCCC 100%);}
+.asidesec .profilelist-md li:nth-child(3){background: linear-gradient(140.41deg, #E2FDEB 0.19%, #AEF2B9 100%);}
+.doctorslist .profilelistul li p {line-height: 0.75rem;font-size: 0.75rem;}
+.patientslist .profilelistul li p {line-height: 0.75rem;font-size: 0.75rem;}
+.doctorslist .outlinebtn{padding: .5rem 0.6rem;margin: 0rem auto;font-size: 0.75rem;font-weight: 500; max-width: 154px;text-align: center;}
+.asidesec.appbookingleft{order:1; display:block;}
+.middlesec.appbookingright{padding: 0rem 0rem 0rem 1rem;}
+.appbookingleft .userprofdtl{     text-align: center; display: block;}
+.appbookingleft .userprofdtl .profile {width:72px;height:72px;margin: 0rem auto 1rem auto;}
+.appbookingleft .userprofdtl .profile img{width:72px;height:68px;}
+.appbookingright .tab-content .outlinebtn {margin: 0.25rem 0.15rem;}
+.create-postpic .input-group .form-control{ width:0;    min-width:0;}
+.create-postpic .input-group input{width:100%;}
+.footerfixbg{ padding-bottom:5rem;}
+.asidesec .invitations .ulboderbotm li {display: flex;}
+.ptb-90 {padding-bottom:40px;padding-top:40px;}
+ul.footerlist li a{    margin: 0 0.95rem;line-height: 2rem;}
+.footerlist{display: flex; flex-wrap: wrap;justify-content: center;}
+.doctor1{max-width:38%;}
+.doctor2{max-width:50%;    margin-right: 1.5rem;}
+.doctor3{text-align: right;width: 164px;}
+.doctor3 img{max-width:60%;}
+.compnyvproflname {margin-top: 2rem;}
+.profilelist li a {padding: 0.46rem 0.6rem 0.46rem 2.4rem;}
+.profilelist li a img {margin: -8px 10px 5px 10px;width: 16px;height: 16px;}
+.view-profile .scrollbarpanss{height:auto;margin: 0 15px;}
+.view-profile.invitations .nav-tabs .nav-link{ margin-left:0 ; font-size:0.875rem;    padding: 1rem 0.38rem 0.7rem 0.38rem;}
+.asidesec.myprofile{display:block;}
+.videoht {width: 380px;height: 286px;    margin-left: 1rem;}
+.frontdevice {left: 99px;width: 150px;top: 24px;}
+.backdevice {margin-left: 0px; width:150px;}
+.iti input, .iti input[type=text]{min-width:276px !important;}
+.events.asidesec {order: 4;display: block;}
+.events.asidesec .sidebarlistfix {display: block;}
+.tabdisplaynone{ display:none;}
+.compnyvprofl .card .compnyvprofl-img { min-height: 123px;background-size: contain;}
+.compnyvprofl .profile {top: 14px;}
+.events.pagediscover.products .eventslistul li .product{ width:auto; min-width:auto;}
+.compnyvprofl.pagehomepublic .card .compnyvprofl-img{height:140px;}
+body.doscamslanding .banner-containt img {max-width: 300px;}
+body.doscamslanding .tab-pane {display: block !important; opacity: 1;margin-bottom:0rem; }
+body.doscamslanding .card-header{border-bottom:none; background-color: transparent; position:relative;padding:0;}
+body.doscamslanding .card-header a{    color: #333333;    margin-bottom: 0.1rem;border-radius: 12px; background-color:#F2F2F2;font-size:1.25rem;
+display: block;position: relative;font-family: 'gorditabold';font-weight: 700;line-height: 2rem;padding:1.5rem 3.2rem 1.25rem 1.5rem;border: none;}
+body.doscamslanding .card-header a p{    font-family: 'gorditaregular';
+font-size: 1rem; display:block;font-weight: 400;color: #333333;line-height: 26px;margin-bottom: 0;}
+body.doscamslanding .card-header a.collapsed p{display:none;}
+body.doscamslanding .card-header a:before{content: "";position:absolute;right:1rem;top:50%;margin-top:-14px;background-image: url(../../assets/img/btnprev.svg);
+background-repeat: no-repeat;width:28px; height:28px; background-size:100%;transform:rotate(90deg);}
+body.doscamslanding .card-header a.collapsed:before{top:50%;margin-top:-14px;transform:rotate(-90deg);}
+body.doscamslanding .card-body {text-align: center; padding-left: 0.3rem; padding-right: 0.3rem; padding-top:1rem;padding-bottom:1rem;}
+body.doscamslanding .upcomingfeatures  h4.subtile{ margin-bottom:2rem;}
+footer .footerlist{ margin-top:1rem;}
+.bannerdesktop{display:none;}
+body.doscamslanding .banner:before {background-color:transparent;background-image: url(../../assets/img/landingtop-banner-img-mob.jpg);
+width: 100%;background-size: 47%;background-position-x: right;background-position-y: 25%;}
+.upcomingfeaturess h4{font-size: 1.15rem;padding-left: 4rem;}
+.upcomingfeaturess p {padding-left: 4rem;}
+.upcomingfeaturescol img {width: 50px;height: 50px;}
+.events.pagediscover.products .eventslistul li p.pxxssmall{ margin-top:0.75rem;}
+
+
+}
+
+@media only screen and (max-width: 992px) {
+.loginleft{width:42%;}
+.loginright{width:58%;}
+.newsingup .loginright{width: 488px;}
+.loginright .loginrightinner {padding:2rem 2.15rem 2rem 2.15rem; max-width: 100%;width: 100%;}
+input[type=text]{min-width: 100%;width: 100%;}
+.create-post .create-postpic input[type=text]{ font-size:0.75rem;}
+.loginright .form { width: 100%;}
+.loginright.specialitypage .form { width: 363px;}
+.lablecheckbox {margin-right: 0.4rem;font-size: 0.8rem;}
+.timeslotpage .loginright .loginrightinner {padding: 1rem 1.15rem 2rem 1.715rem;}
+.timeslotpage .loginright .form{   text-align: center;}
+.bulletpoint-list li {position: relative;list-style: none;padding-left: 2rem;line-height: 2rem;font-size: 0.788rem;}
+.membercard {width: 47%;}
+.tab-pane .middlesec .selectbutton {margin-left:0rem; margin-top:8px;    float: none;}
+.tab-pane .middlesec .membercard-col .membercard{display: block;padding-right: 0;position: relative;padding-left: 78px;}
+.tab-pane .middlesec .membercard-col .membercard .membercardinner{ position: inherit;right: inherit;top: inherit;}	
+	
+
+
+
+}
+
+@media only screen and (max-width: 767.5px) {
+.navbarcustm.container{  padding: 0rem;  max-width: 100%;}
+.navbar-nav{ padding:2rem 1rem;}
+.navbar-nav .outlinebtn.btnfillnone{display:block;margin:0rem 0.1rem; padding: 0.99rem 1rem; color: #fff;box-shadow: 0 0 6px 0 rgb(157 96 212 / 50%);border: solid 2px transparent;
+background: linear-gradient(180.25deg, #4456a6 0.62%, #6545A5 100%);background-origin: border-box;box-shadow: none; text-align: center;}
+.navbar-nav .outlinebtn.btnfillnone:hover {color: #4456a6;border: solid 2px #4456a6;background: transparent;}
+.navbar-nav .btnfill{display:block;padding: 0.99rem 1rem;text-align: center;    float: none;}
+.searchicon-mb{position: absolute;right:50px; top:19px;}
+.banner-containt {padding-top:2rem;}
+.banner-containt .order-1{ text-align:center;}
+.banner-containt h1{padding-top: 2.5rem;font-size: 2.25rem;line-height: 2.7rem;max-width: 386px; width: 386px;margin: 0rem auto 0.6rem auto;}
+.banner-containt .btnfill{margin: 0.5rem 0.1rem;}
+.banner-containt .order-2{ text-align:center;}
+header.homebanner .outlinebtn.btnfillnone {font-size:0.875rem;}
+.card,header{ margin-bottom:0.6rem;}
+.iconlist li{margin:0 auto 2.1rem auto;    padding-left: 4.2rem;}
+.iconlist li:last-child{ margin-bottom:0rem;}
+.loginleft{ display:none;}
+.loginbg{ height:100%;}
+.loginright {width:100% !important;}
+.loginright .form {width: 360px;}
+.newsingup .loginright .form {margin-left: auto;margin-right: auto;}
+.popupalertbg { min-width:300px;    margin-left: -150px;}
+.asidesec.bookservc .sidebarlistfix .card:first-child {width: 74%;}
+.asidesec.bookservc .sidebarlistfix .card:last-child {width: 26%;}
+.profilelistul li {width:calc((100% - 36px)/3);}
+.profilelistul li:nth-child(4n) {margin-right:6px;}
+.profilelistul li:nth-child(4n+1) {margin-left:6px;}
+.dasbrdpntlist {min-width: 157px;    margin:0.7rem 0.7rem;}
+.dasbrdpntlist p {font-size: 0.75rem;}
+.asidesec.messaging{ padding-right:0.5rem;}
+.messaging .scrollbarpan {max-height: 27vh;}
+.asidesec .profilelist-md { padding-bottom: 0.68rem;}
+.mb-block{ display:block;}
+.mb-none{ display:none;}
+.articlesec{ display: none;}
+.middlesec.notificationpage{display:block;}
+.middlesec.appbookingright {padding: 0rem 0rem 0rem 0rem;}
+.appbookingleft .userprofdtl{ display:flex;    text-align: left;    margin: 1rem 0 0 0;}
+.appbookingleft .userprofdtl .profile{ margin:0rem 0.7rem 0 0;}
+.asidesec.myprofile{padding-right:0;}
+.middlesec.view-profile.invitations .nav-tabs .nav-link.active {color: #4456a6;border-bottom: solid 0px !important;background-color:#F7F8FA;}
+/*.viewprofile .tab-pane {display: block !important; opacity: 1;margin-bottom:0rem; }
+.viewprofile .card-header{ background-color: transparent; position:relative;padding:0;}
+.viewprofile .card-header h5 a{ font-weight:400; font-size:1rem; padding:.75rem 1.25rem;display:block;position:relative;}
+.viewprofile .card-header h5 a:before{content: "";position:absolute;right:1rem;top:16px;background-image: url(../../assets/img/btnprev.svg);
+background-repeat: no-repeat;width:20px; height:20px; background-size:100%;transform:rotate(90deg);}
+.viewprofile .card-header h5 a.collapsed:before{top:16px;transform:rotate(-90deg);}
+.viewprofile .card-body {padding-left: 0.3rem; padding-right: 0.3rem; padding-top:1rem;padding-bottom:1rem;}
+*/
+.profsnlntwrk h1{ margin-top:2rem; text-align: center;max-width: 356px;margin-left: auto;margin-right: auto;}
+ul.footerlist li a { margin:0 0.6rem;}
+.copyright span {text-indent: -999999px;display: block;line-height: 0;}
+.coloumimg {width:50%;}
+.banner:before{ background-color:#fff;}
+footer { padding-top: 2rem;padding-bottom: 1rem;}
+.banner {padding-bottom:3rem;}
+.doctorsmain{max-width: 400px; margin: 0 auto;}
+.compnyvproflname{ margin-top:3rem;}
+.compnyvprofl .profile{ min-height:100px; width:100px;    top: 130px;}
+.view-profile .nav-tabs { display:block;    padding-left: 1rem;padding-right: 1rem;     border-bottom: solid 1px #ffffff;}
+.view-profile.invitations .nav-tabs .nav-link{   font-size: 0.875rem;margin-left: 0rem;margin-top: 0;border-color:transparent transparent transparent transparent;padding: 0.5rem;}
+.pageloader img{ display:none;}
+/*.peoplelikepopup .userlist-bordr li p {width:auto;}*/
+.middlesec.invitations.groupsall #nav-tabContent .userprofdtl .profile{ width:60px; min-width:60px; height:60px;}
+.middlesec.invitations.groupsall #nav-tabContent .userprofdtl .profile img{ width:60px; min-width:60px; height:60px;padding: 0.4rem;}
+.videothumbnailbg{margin-left:0;margin-bottom: 1rem;}
+h1.letter-spacing16{margin-top: 2rem;    letter-spacing: 0.08em;}
+.docshangout .order-2 img{    width:150px;margin: 0 auto;display: block;}
+.videothumbnailbg{    height: auto;}
+.videothumbnailbg img {height: auto;}
+.createpostpopup.blocked .modal-dialog{max-width:472px !important;   }
+.modal.createpostpopup.blocked.launchpromopopup iframe {padding-left: 0rem;padding-right: 0rem;}
+.videht{ height:340px;}
+.bannersliders h3 {   max-width:410px;    margin: 0 auto;}
+.frontdevice {left: 106px;}
+.backdevice {position: relative;left: 5px;right: 75px;top: 12px;}
+.videoht {width: 100%;margin-left: 0;}
+.appdownload h1 {    text-align: center;font-size: 1.6rem;line-height: 2.2rem;}
+.events .eventslistul li {width: calc((100% - 16px)/2);margin: 4px 4px 4px 4px;}
+.events .eventslistul li:nth-child(3n+1) {margin-left: 4px;}
+.events .eventslistul li:nth-child(3n) {margin-right: 4px;}
+.compnyvprofl.pagehomepublic .postionrigt{position: relative;right: inherit;left: inherit;float: right;    min-width: 280px;display: flex;} 
+.compnyvprofl.pagehomepublic .profile {bottom: 114px; top:inherit;}
+.slider-for{ margin-left:auto; margin-right:auto; width:345px;}
+.searchboxs{margin:auto;}
+.compnyvprofl.pagehomepublic .compnyvproflname {margin: 1rem 0px 1rem 180px;}
+.slider-nav{margin-bottom:1.5rem;}
+
+body.doscamslanding .banner-containt h1{padding-top:14rem;}
+body.doscamslanding h4.subtile {font-size: 1rem;line-height: 1.5rem;margin-left: auto;margin-right: auto;}
+body.doscamslanding .banner-containt img{ margin-top:0;}
+body.doscamslanding .upcoming-featurescol {width: 239px;margin: 0.5rem;}
+body.doscamslanding .upcoming-featurescol img{ width:80px;}
+body.doscamslanding .ourapproach .col img{ width:80px;}
+
+.membercard-col div.membercard{flex-wrap: nowrap;width:100%;}
+.membercard-col div.membercard:nth-child(odd) {margin-right:0rem;}
+.tab-pane .middlesec .selectbutton {margin-left: 0rem;margin-top: 16px;}
+.tab-pane .middlesec .membercard-col .membercard {padding-right: 170px;display: flex;}
+.tab-pane .middlesec .membercard-col .membercard .membercardinner {position: absolute;right: 0;top: 0px;}
+.compnyvprofl.pagehomepublic.group .compnyvproflname{margin:1rem 1rem 1rem 1rem;}
+body.doscamslanding .banner:before {background-size: 57%;background-position:center -1px;}
+.compnyvprofl.pagehomepublic .postionrigt .treedotdrop{      top: -1.16rem;margin-right: 0.6rem;margin-left: 0.6rem;}
+.upcomingfeaturescol img {width: 80px;height: 80px;}
+.upcomingfeaturess h4 {padding-left: 6rem;}
+.upcomingfeaturess p {padding-left: 6rem;}
+.compnyvprofl.pagehomepublic.group .postionrigt{display:flex;}
+.logo2 {margin: 2rem 0 1rem 0;}
+.loginright {min-height: 400px;}
+
+}
+
+@media only screen and (max-width:640px) {
+body.doscamslanding .banner:before {background-size:63%;background-position:center 14px;}	
+}
+
+@media only screen and (min-width:576px) {
+.modal .modal-body{padding:1rem 3rem 1rem 3.7rem;}
+.modal-dialog { max-width: 560px !important;}
+.profilepic .modal-dialog.modal-md { max-width: fit-content !important;width: 94%;}
+
+}
+
+@media only screen and (max-width:576px) {
+.ml-mr-15 {margin-left: -7px;margin-right: -7px;}
+.pxxxssmall {font-size: 0.875rem;}
+.navbar-collapse.collapse.show .navbar-nav {padding:3.5rem 0.6rem 0 0.6rem;}
+.nav-tabs .nav-item .nav-link {padding: .5rem .7rem;}
+.createpostpopup select.field-select{ width:100%;}
+.specialitypage .checkmain {width:32%;}
+.specialitypage .checkmain label {width:97%; margin:1.5px 2px;}
+.create-post .profile-lg { margin-right: 0.5rem;}
+.articlesec,.middlesec,.asidesec {padding: 0rem 0.6rem;}
+.profilelistul li {width:calc((100% - 24px)/2);}
+.modal-body {padding: 0.6rem;}
+.dasbrdpntlist {min-width: 45%;margin: 0.5rem 0.5rem;}
+.modal.createpostpopup .modal-body .userprofdtl {width: inherit;}
+.profilelist-md li a p.pxssmall{display:none;}
+.profilelist-md li a p { width:90px;margin: 0 auto;}
+.middlesec.appbookingright {padding: 0rem 0.6rem 0rem 0.6rem;}
+.appbookingright .loginrightinner .btnfill{float: none; margin: 1rem auto;}
+.asidesec .sidebarlistfix { display: block;}
+.asidesec.bookservc .sidebarlistfix .card:first-child, .asidesec.bookservc .sidebarlistfix .card:last-child { width:100%;}
+.asidesec.bookservc .sidebarlistfix .card:last-child .outlinebtn{ margin-top:0rem !important; width:50%;text-align: center;}
+.create-post .create-postpic {padding-left: 47px;}
+.notfound p {font-size: 1rem;}
+.notfound img {max-width: 37%;}
+/*.viewprofile .btnfill{float:none;}*/
+.invitations .userprofdtl .profile {margin: 0rem 0.5rem 0rem 0;width:48px;height: 48px;}
+.invitations.manageinvitations .userprofdtl .profile{width: 68px;height:68px;}
+.invitations.manageinvitations .userprofdtl .profile img{width: 68px;height:68px;}
+.invitations .userprofdtl .profile img{width:48px;height:44px;}
+.invitations .userprofdtl h6, p{font-size:0.875rem;    line-height: 1.25rem;}
+.invitations ul.ulboderbotm li .outlinebtn{ font-weight:500; font-size:0.75rem;    padding: .25rem 0.75rem;}
+.invitations ul.ulboderbotm li .btnfill{ font-weight:400; font-size:0.75rem;    padding: .25rem 0.75rem;}
+ul.footerlist li a {font-size:0.75rem;    line-height: 1.375rem;}
+.copyright{font-size:0.75rem;}
+.banner {padding-bottom:0rem;}
+ul.pagination li:first-child .page-link.border-0 {font-size: 0.75rem;    margin-right: 0.6rem; }
+ul.pagination li:last-child .page-link.border-0{font-size: 0.75rem;    margin-left: 0.6rem; }
+.createpostpopup .userprofdtl p strong{max-width:100%;}
+.compnyvproflname{ margin-top:4rem;}
+.nearbyservices .userprofdtl .create-postpic{ margin-bottom:1.5rem;    margin-right: 0;}
+.groupsall.groupsallthree .outlinebtn.postionrigt {margin: 12px auto;position: relative;right: 0;}
+.groupsall.groupsallthree .ulboderbotm li{ display:block; padding-top:0.5rem; padding-bottom:0.5rem;}
+.profsnlntwrk{ padding-top:0;}
+.write-message .galleryposticon .newbtn{ margin-bottom:1rem;}
+.patientslist .filter{display:block; margin-right:0;}
+.patientslist.nearbyservices .filter{ display:flex;}
+.patientslist.nearbyservices .filter input[type=text]{margin-left:0;}
+.patientslist .filter input[type=text]{ margin-left:30px;}
+.patientslist .filter .select-arrow { width:100%;   margin-bottom: 0.5rem;}
+.patientslist .filter select.field-select{ width:100%;   }
+.patientslist.nearbyservices .filter .select-arrow {    margin-bottom: 0.5rem;}
+.filter .btnfill.btn-rd{margin-left: 0.6rem;float: left;height: 34px;}
+.asidesec.myprofile{padding-right:0;}
+.docshangout{text-align:center;}
+.docshangoutpar {max-width: max-content;}
+.playbtns{justify-content:center;}
+.selectbutton{float:none; margin-right:1rem;}
+.createpostpopup.sharepost .selectbutton{margin-right:0.5rem; padding-right:0.5rem;    padding-left: 2.3rem;}
+.createpostpopup.sharepost .selectbutton.pl-3{padding-right:0.99rem;}
+.galleryposticon .newbtn{margin-bottom: 1rem;}
+.videht{ height:280px;}
+.createpostpopup.blocked .modal-dialog{    max-width: 88% !important;    margin: 0.5rem auto;}
+.createpostpopup.blocked h4 {padding-left: 1rem;padding-right: 1rem;}
+.createpostpopup.blocked .modal-body img{width:120px;}
+.profile-verifiedbg{padding:0.5rem;}
+.profile-verifiedbg h6{ margin-left:1rem;    font-size: 0.875rem !important;line-height: 1.25rem !important;}
+.createpostpopup.blocked.launchpromopopup .modal-body img {width: 300px;}
+.bannersliders h1{font-size:48px;    margin-bottom: 1rem;}
+.bannersliders h3 {  font-size: 16px;max-width: 310px;margin: 0 auto;line-height: 24px;}
+.bannersliders .item{height:350px !important;}
+.backdevice {margin-bottom: 2rem;}
+.mobilescreens{min-width: 269px;margin: 0 auto;display: table;}
+.docs-details h2 {     font-size: 1.5rem;line-height: 1.95rem;}
+.docshangout p, .docs-details p {font-size: 0.875rem;line-height: 1.25rem;}
+.sharepost .listcheckbox .lablecheckbox{padding-left:0;}
+.middlesec.events,.middlesec.livewebinar,.middlesec.journalspage {min-height: 500px;}
+.events.pagediscover .nav-tabs .nav-link{padding-top:70px;}
+.events.pagediscover.products .eventslistul li {width: calc((100% - 16px)/2);}
+body.doscamslanding .ourapproach .col{min-width:100%; width:100%;}
+body.doscamslanding .upcoming-featurescol {width: auto;margin:0.75rem 0rem;}
+body.doscamslanding .whitebg.banner h4.position-relativez9999{margin-top:0.5rem; }
+body.doscamslanding .banner:before {    background-size: 72%;background-position: center 9px;}
+.compnyvprofl.pagehomepublic .nav-tabs .nav-link{padding: 0.5rem 0.5rem;font-size: 0.875rem !important;}
+.p-3 {padding: 0.65rem !important;}
+.middlesec .card .userprofdtl .create-postpic {padding-left: 56px;}
+.userprofdtl .profile-lg img {width: 48px;height: 48px;}
+.userprofdtl .profile-lg {margin-right: 0rem;width:50px;height: 48px;}
+#contactus .modal-body .scrollbarpan{ min-height:400px;}
+#contactus .modal-body .btnfill { margin-right:10px;}
+}
+
+@media only screen and (max-width: 480px) {
+h3 {font-size: 1.39rem;}
+.loginright .form{ width:100% !important; margin: 0 auto;}
+.newsingup .loginright .form{width:92% !important;}
+.login-innerbg{ margin:0.6rem 0.6rem 3rem 0.6rem;}
+.loginright .loginrightinner {padding:1rem 0rem 2rem 0rem !important; margin: 0 auto;display: -webkit-box;
+display: -ms-flexbox;display: flex;-ms-flex-wrap: wrap;flex-wrap: wrap;}
+.footerbtm ul.footerlist li a{margin-right: 1rem;font-size:0.86rem;}
+.to {margin: 7px 0.3rem; font-size: 0.7rem;line-height: 26px;}
+.remove {margin: 0px 11px;}
+.modal.show .modal-dialog { -moz-transform:inherit !important;-webkit-transform: inherit !important; 
+ transform: inherit !important;left: inherit;top: 8%;}
+.lablecheckbox {margin-right:0.82rem;}
+.popupalertbg{font-size: 0.8rem;    bottom: 4%;    left: 50%;margin-left: -150px;}
+.asidesec .profilelist-md li a{padding: 0.75rem 0.7rem 0.76rem 0.7rem;}
+.profilelist-md li a p {width: auto;}
+.invitations .nav-tabs .nav-link {padding: 1rem 0.4rem 0.35rem 0.4rem; font-size: 0.875rem; margin-left: 0.6rem;}
+.pathcopys{margin:0.5rem 0;}
+.pathcopys p{    max-width:240px;overflow: hidden; white-space: nowrap;text-overflow: ellipsis;}
+.commentbox .input-group-append .input-group-text{max-width: 77px; display:inline-block;padding-right: 0px;overflow: hidden; white-space: nowrap;text-overflow: ellipsis;}
+.doctorsmain{ max-width: 280px;}
+.doctor3 img{max-width:50%;    margin-right: 0.5rem;}
+.doctor2 { margin-right:0rem;}
+.compnyvprofl .postionrigt{     display: grid;}
+.compnyvprofl .like{margin:0.65rem 0rem 0 1.5rem;}
+.compnyvprofl .share{margin-top:0.5rem;}
+.compnyvproflname {margin-top: 5.2rem;}
+.group-page .postionrigt {top: 64px;left: 0;text-align: center;}
+.members {display: block;margin: 5px auto;}
+.compnyvprofl.group-page .compnyvproflname {margin-top: 9.2rem;}
+.groupsall .outlinebtn.postionrigt {margin: 12px auto;position: relative;right: 0;}
+.combo-select{    width:268px;}
+.combo-select select{    width:268px;}
+.card.txtcntbacbtn h4{font-size:0.75rem; line-height:1rem;}
+.view-profile .tab-content{width:auto;  padding:0.8rem;margin: 0rem 0;}
+.journalspagelist .colss{    width: 47%;}
+.journalspagelist{justify-content:space-between;}
+.filter .select-arrow {    margin-bottom: 0.5rem;margin-right:0;width:100%;  }
+.filter select.field-select {    width:100%; margin-right:0;}
+.filter img { margin-top: 1rem;}
+.patientslist .filter input[type=text]{ margin-left:30px;}
+.nearbyservices .filter{display:block; margin-right:0;}
+.patientslist.nearbyservices .filter{ display:block;}
+.patientslist.nearbyservices .filter input[type=text]{margin-left:30px;}
+.select2{min-width: 280px !important;}
+.modal.createpostpopup.blocked.launchpromopopup iframe{ height:250px;}
+.videht {height: 250px;}
+.cropper-bg {width: auto;height: 400px;}
+.iti input, .iti input[type=text]{min-width:auto !important;}
+.createpostpopup.sharepost .selectbutton div {max-width: 56px;}
+.selectbutton div{max-width:0px;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
+.view-profile .tab-content {    width: 100%;}
+.view-profile .form {width: auto;padding: 0;}
+.compnyvprofl.pagehomepublic .middlesec .card .profile {bottom:9rem;width: 70px;height:70px;padding: 6px;min-height:70px;margin-left: 0.8rem;}
+.compnyvprofl.pagehomepublic .compnyvproflname {margin-top:4rem;margin-left:16px;margin-bottom: 0rem;}
+.breadcrumb{ margin-left: 0.5rem;}
+.events.pagediscover .eventslistul li h6 {line-height: 20px;font-size: 0.875rem;}
+.events.pagediscover.categories .eventslistul li{width:calc((100% - 0px)/1);}
+.events.pagediscover.categories .eventslistul li:nth-child(2n+1) {margin-left:12px;margin-right:12px;}
+.events.pagediscover.categories .eventslistul li:nth-child(2n) {margin-left:12px;margin-right:12px;}
+body.doscamslanding .banner:before {    background-size:98%;background-position:center 23px;}
+body.doscamslanding .banner-containt h1 {padding-top:16rem;letter-spacing: 0px; max-width: 292px;width: 292px;font-size: 1.75rem;line-height:2.2rem;margin-bottom: 1rem;}
+body.doscamslanding .banner-containt h1 .tm {font-size: 7px;top: -2.4em;left: -6px;}
+body.doscamslanding h2 {font-size: 1.75rem;    line-height: 2rem;}
+body.doscamslanding .banner-containt img {margin-top:2rem; }
+.membercard .profile-lg,.membercard .profile-lg img{width: 48px;height: 48px;margin-right: 0.5rem;}
+.tab-pane .middlesec .selectbutton {margin-top: 10px; padding-right: 0.8rem; padding-left: 0.8rem;margin-left:0.8rem;}
+.createpostpopup.peoplelikepopup.cancelinvited .userlist-bordr li{display:block;}
+.createpostpopup.peoplelikepopup.cancelinvited .userlist-bordr li .selectbutton{margin: 15px auto 0 auto !important;display: table;}
+.tab-pane .middlesec .membercard-col .membercard{    margin-bottom: 2rem; display:block;padding:0 0 0 54px;}
+.tab-pane .middlesec .membercard-col .membercard .membercardinner {position: inherit;text-align: center;right: inherit;top: inherit;}
+.tab-pane .middlesec .membercard-col .membercard .membercardinner .selectbutton{margin-left:0;}
+.membercarddetails {padding-left: 3.8rem;}
+.membercard {width: 100%;}
+.kol {margin: 3px 0 0 4px;top: -2px;position: inherit;display: inline-block;}
+.notificationsright .profile-xl{ display:none;}
+.compnyvprofl.pagehomepublic .postionrigt .treedotdrop .dropdown-content{right:-118px}
+.compnyvprofl.pagehomepublic .postionrigt .treedotdrop .dropdown-content:before {right:100px;}
+
+}
+
+@media only screen and (max-width: 400px) {
+.navbar-light .navbar-brand {margin-left: 0 !important;margin-right: 0rem !important;width: 138px;margin-top: 0px !important;}
+.navbar.navbar-light .btnfill{ font-size:0.75rem;}
+.logo { width: 160px;}
+.banner-containt h1{font-size:1.75rem;line-height:2.1rem;max-width:286px;width:286px;}
+.profsnlntwrk h1{font-size:1.75rem; line-height:2.1rem;}
+.dpn-mapbg h1{font-size:1.75rem; line-height:2.1rem;}
+h1 { font-size: 2rem;line-height: 2.5rem;}
+.specialitypage  .checkmain { width:49.1%;}
+.lablecheckbox { margin-right: 0.18rem; font-size:0.70rem;}
+.loader { left:25%;}
+.modal-dialog .scrollbarpan {max-height: 420px;}
+.peoplelikepopup .modal-dialog .scrollbarpan{max-height: 420px;}
+.timeslotpage select.field-select { margin-bottom:0.8rem;}
+.modal.show .modal-dialog {top: inherit;}
+.profilelistul li {width: calc((100% - 24px)/2);padding:7px;}
+.profilelistul li .clinicmap {padding-left: 0.99rem;}
+.articlesec, .middlesec, .asidesec {padding: 0rem 0.3rem;}
+.vs__dropdown-toggle {min-width: 252px;}
+.profilelistul li .outlinebtn {font-size: 0.75rem;padding: .5rem 0.5rem;}
+.asidesec .profilelist-md{ display:block;}
+.asidesec .profilelist-md li{ width:100%;    margin: 0.5rem 0rem;}
+.profilelist-md li a p.pxssmall{display:block;}
+.asidesec .profilelist-md li a img {     float: left;height: 44px;width: 44px;margin-bottom: 0;margin-right: 0.56rem;}
+.asidesec .profilelist-md li a p {text-align: left;}
+.commentspost{ padding:0.5rem;}
+.invitations .ulboderbotm li{ display:block; padding-top:0.5rem; padding-bottom:0.5rem;}
+.asidesec .invitations .ulboderbotm li {display: block;}
+.invitations ul.ulboderbotm li .outlinebtn{margin-top:0.8rem !important;}
+.invitations ul.ulboderbotm li .btnfill{margin-top:0.8rem !important;}
+.banner-containt { padding-top:1rem;}
+.banner-containt img { margin-top: 2rem;}
+.iconlist li p { font-size: 0.875rem; line-height: 1.20rem;}
+.iconlist li { padding-left: 4rem;}
+.userlist-bordr li{ display:block;}
+.userlist-bordr li .connectbtn{    display: table; margin: 1rem auto 0 auto;}
+.compnyvprofl .like {display: table;}
+.footerfixed .navbar-nav .nav-link p{ font-size:0.65rem;}
+.filter .btnfill.btn-rd{     font-weight: 400;font-size: 0.75rem;padding: .25rem 0.75rem;height: auto;}
+.modal.profilepic.show .modal-dialog{top:8%;}
+.peoplelikepopup .userlist-bordr li .connectbtn{float:none;}
+.createpostpopup.sharepost .btnfill {padding: .45rem 0.6rem;}
+.docs-details .like,.comment,.share {margin: 15px 8px;}
+.videht {height: 210px;}
+.bannersliders h1 {font-size: 38px;margin-bottom: 0.5rem;}
+.events .nav-tabs .nav-link{font-size: 0.875rem;padding:1.25rem 0.5rem;}
+.createfrom .vue__time-picker {width: 130px !important;}
+.createfrom .vue__time-picker, .createfrom .vue__time-picker input.display-time {width: 130px !important;}
+.events .eventslistul li {width: calc((100% - 8px)/1);margin: 4px 4px 4px 4px;}
+.events.pagediscover .eventslistul li .btnfill.btnfull {width: 97.3%;}
+.searchboxs{width:310px;}
+.slider-nav {width: 247px;}
+body.doscamslanding .card-header a{font-size:1rem;}
+body.doscamslanding .banner-containt img {margin-top:0px !important; }
+body.doscamslanding .card-header a span {margin-right: 0.5rem;}
+body.doscamslanding .banner-containt h1 {padding-top:14rem;margin-bottom: 0rem;}
+.slider-nav .slick-next:before{left:-4px;}
+.slider-nav .slick-prev:before{left:2px}
+.slider-for { width:auto; }
+.slider-for .slick-slide.slick-current.slick-active div > div {height: 280px;}
+.membercard-col div.membercard{    display: block;}
+.tab-pane .middlesec .selectbutton{margin-top:8px;margin-left: 3.5rem;}
+body.doscamslanding header.homebanner .outlinebtn.btnfillnone {margin: 0.6rem 0.1rem;    font-size: 0.75rem;padding: 0.41rem 1.2rem;}
+body.doscamslanding h4.subtile {    margin-bottom: 0.8rem !important;font-size: 0.875rem;line-height: 1.4rem;}
+body.doscamslanding .banner .btnfill, body.doscamslanding .join-movement .btnfill {font-size: 0.75rem;padding: 0.41rem 1.2rem;}
+body.doscamslanding .banner-containt .order-2 img {margin-top:-2rem !important;}
+body.doscamslanding .whitebg.banner h4.position-relativez9999{line-height: 1.25rem;font-size:0.75rem; margin-top:0rem;}
+.banner-containt {display: flex;align-items: center;}
+.compnyvprofl.pagehomepublic .postionrigt .lightbtn{ margin-bottom: 0;height: 40px;}
+.compnyvprofl.pagehomepublic .postionrigt.btnfill{ margin-bottom:0;}
+.dropdown-content:before {right: 100px;}
+.compnyvprofl.pagehomepublic .middlesec .card .nav.nav-tabs {margin-left: 0.7rem;}
+
+}
+
